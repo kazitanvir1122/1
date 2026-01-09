@@ -7,6 +7,7 @@
     --dark-blue: #050a14;
 }
 
+
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -56,7 +57,7 @@ header nav {
  }
 
 .btn-primary { 
-    background:white;
+    background:rgba(91, 207, 91, 0.646);
 
      border: none; 
      padding: 10px 20px;
